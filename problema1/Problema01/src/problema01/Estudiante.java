@@ -56,7 +56,7 @@ public class Estudiante {
     @Override
     public String toString() {
         String cadena;
-        cadena = String.format("Nombre del estudiante: %s.f\n"
+        cadena = String.format("Nombre del estudiante: %s\n"
                 + "Calificacion de la materia 1 es: %.2f\n"
                 + "Calificacion de la materia 2 es: %.2f\n"
                 + "Calificacion de la materia 3 es: %.2f\n"
